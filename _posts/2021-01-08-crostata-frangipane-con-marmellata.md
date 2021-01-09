@@ -1,5 +1,4 @@
 ---
-date: 2021-01-08
 title:  Crostata frangipane con marmellata
 categories:
   - Dolce
@@ -19,8 +18,10 @@ recipe:
     * 1 cucchiaino di lievito
     * Acqua o latte qb
     * Buccia limone
+    
     * Farcia
     * Marmellata qb
+    
     * Crema frangipane
     * 2 uova
     * 120 g di farina di mandorle
@@ -43,3 +44,4 @@ recipe:
   
   
   ![](https://recipekeeperonline.com/recipe/kex6CPkVpUK5xlknncjOkw/photo/1)
+  
